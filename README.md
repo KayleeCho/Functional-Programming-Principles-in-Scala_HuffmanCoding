@@ -1,2 +1,2 @@
-# Functional-Programming-Principles-in-Scala_HuffmanCoding
-My solution to Programming Assignment of Week 4 of Functional Programming Principles Coursera course
+# Functional-Programming-Principles Coursera Course Week 4 Challenge. HuffmanCoding
+My solution to Programming Assignment of Week, Huffman Coding
